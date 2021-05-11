@@ -13,7 +13,7 @@
     
  *Requires a clientId from Spotify to use, 
     which required creating an app through Spotify at https://developer.spotify.com/dashboard/applications
-    more info available at https://developer.spotify.com/documentation/web-api/  _
+    more info available at https://developer.spotify.com/documentation/web-api/ 
     
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
