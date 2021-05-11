@@ -11,7 +11,7 @@
     Track.js renders the individual track, enabling playing and pausing the 30s preview available through Spotify
     in the /util folder, Spotify.js handles the Spotify API
     
-_ *Requires a clientId from Spotify to use, 
+ *Requires a clientId from Spotify to use, 
     which required creating an app through Spotify at https://developer.spotify.com/dashboard/applications
     more info available at https://developer.spotify.com/documentation/web-api/  _
     
